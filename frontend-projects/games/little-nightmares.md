@@ -52,30 +52,34 @@
 - `--blood-red: #8b0000`
 
 ### Tipografia
+
 - Creepster, Nosifer ou similar
 - Imagens: Screenshots oficiais, Pinterest, Behance
 
 ## Roadmap
 
 ### Phase 1: Design & Wireframes
+
 - Criar protótipo pelo figma
 - Mockups das principais seções
 - Definição da navegação
 
 ### Phase 2: Desenvolvimento Core
+
 - Estrutura HTML semântica
 - CSS Grid/Flexbox layouts
 - Animações básicas
 
 ### Phase 3: Interatividade
+
 - JavaScript para navegação
 - Efeitos sonoros
 - Micro-interações
 
 ### Phase 4: Polimento
+
 - Responsive design
 - Performance optimization
-- Testes cross-browser
 
 ## Inspirações
 
