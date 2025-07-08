@@ -36,6 +36,7 @@ Web Audio API Efeitos sonoros
 🎨 Design System
 css
 /* Paleta de Cores */
+
 --nightmare-black: #1a1a1a;
 --shadow-gray: #2d2d2d;
 --yellow-light: #ffdb4d;
@@ -64,7 +65,6 @@ Phase 4: Polimento
 ├── Responsive design
 ├── Performance optimization
 └── Testes cross-browser
-
 🔗 Inspirações
 Site oficial do jogo
 Portfolios de desenvolvedores indie
