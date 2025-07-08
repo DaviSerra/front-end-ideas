@@ -116,7 +116,6 @@ colors: {
 ### Phase 4: Polimento
 - Responsive design
 - Performance optimization
-- SEO e acessibilidade
 
 ## Inspirações
 - Site oficial do jogo
