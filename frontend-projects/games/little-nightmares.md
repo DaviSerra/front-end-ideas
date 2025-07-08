@@ -53,12 +53,12 @@
 
 ### Tipografia
 - Creepster, Nosifer ou similar
-- Ícones: Font Awesome + Custom SVG
-- Imagens: Screenshots oficiais, fan art creditada
+- Imagens: Screenshots oficiais, Pinterest, Behance
 
 ## Roadmap
 
 ### Phase 1: Design & Wireframes
+- Criar protótipo pelo figma
 - Mockups das principais seções
 - Definição da navegação
 
